@@ -1,0 +1,5 @@
+token = 'EAAFnKqlZAeW8BAFYvrxAMBqjwEQjvcCwKf3vWWiJ4qkwfZAAqaE4SIEH9fkY23Ckd2WviQkHS7DjveCDrcdzCNXNgN6mfqsKArZBRvaQELgHJaufOp8gCfJyUsag3NafIe0tBwXd5IH2xp1XThGnuhVec996NWt5XBaIJtpi5ZCoIFv1RJ7FnHGir088DxkZD'
+
+DB_NAME = 'facebook_posts'
+DB_USER = 'user'
+DB_PASS = 'password'
